@@ -1,0 +1,21 @@
+.box{
+    background-color: rgb(31, 29, 29);
+    color: white;
+    position: absolute;
+    top: 80%;
+    left: 33%;
+    border-radius: 10px;
+    padding: 1%;
+    
+
+}
+
+#accept{
+    background-color: green;
+    color:white;
+    margin-left:220px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    display: flex;
+
+}
